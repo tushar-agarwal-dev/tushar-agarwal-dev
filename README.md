@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Tushar 👋  
+### 💻 BTech CSE @JECRC’28 | Learning MERN Stack & DSA  
+I'm currently building full-stack projects and improving my problem-solving skills.
+
+- 🔭 I’m working on: React + Node.js Projects
+- 📚 I’m currently learning: Data Structures in C++ (Striver Sheet)
+- 💬 Ask me about: HTML, CSS, Git, GitHub, DSA basics
+- 📫 How to reach me: [Email](mailto:tusharagarwal89@gmail.com)
+
 
 <!--
 **tushar-agarwal-dev/tushar-agarwal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
