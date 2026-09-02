@@ -3,7 +3,7 @@
 I'm currently building full-stack projects and improving my problem-solving skills.
 
 - 🔭 I’m working on: React + Node.js Projects
-- 📚 I’m currently learning: Data Structures in C++ (Striver Sheet)
+- 📚 I’m currently learning: Data Structures in C++
 - 💬 Ask me about: HTML, CSS, Git, GitHub, DSA basics
 - 📫 How to reach me: [Email](mailto:tusharagarwal89@gmail.com)
 
